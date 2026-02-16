@@ -1,4 +1,4 @@
-# 🦖 T-Rex Run 3D
+### 🦖 T-Rex Run 3D
 Play the game here: http://isaccanedo.github.io/t-rex-run-3d/
 Alt. version with best quality settings for high-end PCs: http://isaccanedo.github.io/t-rex-run-3d/
 
